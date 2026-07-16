@@ -1,0 +1,5 @@
+# Default owner for all repository files
+* @ArianES7
+
+# Protect GitHub configuration files
+/.github/ @ArianES7
